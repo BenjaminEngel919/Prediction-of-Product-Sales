@@ -15,7 +15,7 @@ What Store Type should we build next?
 ## Methods
 ### First we had to load, clean and inspect the data.
 ### Then we did Exploratory and Explanatory Data Analysis.
-### Finally we did Modling with multiple 
+### Finally we did Modling with multiple Linear Regression with Regression Metrics.
 
 
 ## Results
