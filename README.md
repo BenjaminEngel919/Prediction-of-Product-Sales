@@ -6,6 +6,7 @@
 ## Business Problem:
 
 What Store Type should we build next?
+Which Model would best predict Outlet Sales?
 
 ### Data: Excel Data Sheet with data about Item Outlet Sales, Outlet Type and Size.
 ### Outlet Establishment Year, Item Type and MRP.
@@ -15,7 +16,7 @@ What Store Type should we build next?
 ## Methods
 ### First we had to load, clean and inspect the data.
 ### Then we did Exploratory and Explanatory Data Analysis.
-### Finally we did Modling with multiple Linear Regression with Regression Metrics.
+### Finally we did Modling with multiple types of Linear Regression Modling taking into account Regression Metrics.
 
 
 ## Results
