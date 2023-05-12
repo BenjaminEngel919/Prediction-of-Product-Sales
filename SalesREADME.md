@@ -1,4 +1,4 @@
-# Prediction of Product Sales
+# Prediction-of-Product-Sales
 ## Analysis of Item Sales
 
 **Author: Benjamin Engel**
