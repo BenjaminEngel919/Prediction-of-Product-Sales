@@ -84,8 +84,8 @@
     Linear Regression Percentage Error: 37.15%
     Decision Tree Percentage Error: 34.08%
     
-    ## Recommendations:
-    #**Model Recommendation, Tuned Decision Tree**
+   Recommendations:
+    Model Recommendation, Tuned Decision Tree
   - Tuned Decision Tree had the lowest MAE of 743.4843.  Our model was off on it's predictions by $743.48.  
   - Error percentage of 34.08%.  
   - Fairly lower error percentage on Decision Tree vs Linear Regression.
