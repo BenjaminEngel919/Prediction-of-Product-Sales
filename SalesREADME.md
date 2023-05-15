@@ -42,9 +42,54 @@
 ![image](https://user-images.githubusercontent.com/126991382/236391404-0ed80730-a248-42b8-b33c-f691cc4e9f6e.png)
 
 
-## Model
-    Tuned Decision Tree
+## Models
 
-## Recommendations:
+    -Linear Regression Train Scores
+    -MAE: 847.6553 
+    -MSE: 1,298,674.2664 
+    -RMSE: 1,139.5939 
+    -R2: 0.5609
+
+    -Linear Regression Test  Scores
+    -MAE: 810.3803 
+    -MSE: 1,210,308.6412 
+    -RMSE: 1,100.1403 
+    -R2: 0.5679
+    
+    Tuned Decision Tree
+    -Linear Regression Train Scores
+    -MAE: 847.6553 
+    -MSE: 1,298,674.2664 
+    -RMSE: 1,139.5939 
+    -R2: 0.5609
+
+    -Linear Regression Test  Scores
+    -MAE: 810.3803 
+    -MSE: 1,210,308.6412 
+    -RMSE: 1,100.1403 
+    -R2: 0.5679
+    
+        -Bagged Tree Train Scores
+    -MAE: 326.7676 
+    -MSE: 245,996.1809 
+    -RMSE: 495.9800 
+    -R2: 0.9168
+
+    -Bagged Tree Test Scores
+    -MAE: 800.9113 
+    -MSE: 1,335,594.8783 
+    -RMSE: 1,155.6794 
+    -R2: 0.5232
+    
+    Linear Regression Percentage Error: 37.15%
+    Decision Tree Percentage Error: 34.08%
+    
+    ## Recommendations:
+    #**Model Recommendation, Tuned Decision Tree**
+  - Tuned Decision Tree had the lowest MAE of 743.4843.  Our model was off on it's predictions by $743.48.  
+  - Error percentage of 34.08%.  
+  - Fairly lower error percentage on Decision Tree vs Linear Regression.
+  - The Root Mean Squared Error is also slightly lower for the Decision Tree. This means that there are less outliers throwing off the weight of our        model.
+  - Both models had good balance. The Tuned Decision Tree once again was slightly better.
     Next Store type to build definitely would be a Supermarket Type 3
     I would Recommend a Tuned Decision Tree Model. But don't put 100% faith in it. More like 60%.
